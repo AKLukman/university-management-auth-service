@@ -1,21 +1,21 @@
-import express, { Application, Request, Response } from 'express'
-import cors from 'cors'
-import usersRouter from '../src/app/modules/users/users.route'
+import express, { Application } from 'express';
+import cors from 'cors';
+import { UserRoutes } from '../src/app/modules/users/users.route';
+import globalErrorHandler from './app/middlewares/globalErrorHandlers';
 
-const app: Application = express()
+const app: Application = express();
 
 // cors
-app.use(cors())
+app.use(cors());
 
 // parse
-app.use(express.json())
-app.use(express.urlencoded({ extended: true }))
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 // Applications routes
-app.use('/api/v1/users', usersRouter)
+app.use('/api/v1/users', UserRoutes.router);
 
-app.get('/', async (req: Request, res: Response) => {
-  res.send('database working!')
-})
+// Global error handling
+app.use(globalErrorHandler);
 
-export default app
+export default app;
