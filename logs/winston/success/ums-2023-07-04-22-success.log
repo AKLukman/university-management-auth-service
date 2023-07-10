@@ -1,0 +1,84 @@
+{
+  message: ' Database connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T21:28:34.460Z'
+}
+{
+  message: ' Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T21:28:34.476Z'
+}
+{
+  message: ' Database connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T21:29:32.839Z'
+}
+{
+  message: ' Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T21:29:32.873Z'
+}
+{
+  message: ' Database connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T21:29:59.059Z'
+}
+{
+  message: ' Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T21:29:59.079Z'
+}
+{
+  message: ' Database connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T21:30:03.080Z'
+}
+{
+  message: ' Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T21:30:03.093Z'
+}
+{
+  message: ' Database connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T21:31:42.286Z'
+}
+{
+  message: ' Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T21:31:42.309Z'
+}
+{
+  message: ' Database connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T21:31:50.523Z'
+}
+{
+  message: ' Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T21:31:50.547Z'
+}

@@ -1,0 +1,28 @@
+{
+  message: ' Database connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T12:26:28.139Z'
+}
+{
+  message: ' Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T12:26:28.177Z'
+}
+{
+  message: ' Database connected successfully!',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T12:26:38.643Z'
+}
+{
+  message: ' Application listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'UMS',
+  timestamp: '2023-07-04T12:26:38.699Z'
+}
